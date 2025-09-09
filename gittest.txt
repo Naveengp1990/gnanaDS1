@@ -1,0 +1,2 @@
+hi git hub to git repo and vice versa.
+new method- branch master to main. now push data to git hub repo.
